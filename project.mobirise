@@ -150,7 +150,7 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "text_all": "All",
+            "text_all": "Fashion Store",
             "gallery__filtersTextStyle": "display-4",
             "gallery__filtersBtnStyle": "btn-secondary",
             "gallery": [
