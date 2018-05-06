@@ -31,13 +31,13 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
+        "#3fe116",
         "#38f409",
         "#16681b",
         "#2ccf49",
         "#772ccf",
         "#6709f1",
-        "#4af750",
-        "#f1154c"
+        "#4af750"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -76,7 +76,7 @@
               "color": "#4af750"
             },
             "B": {
-              "color": "#38f409"
+              "color": "#3fe116"
             }
           },
           "_name": "header1",
