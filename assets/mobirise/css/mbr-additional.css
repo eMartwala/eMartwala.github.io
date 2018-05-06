@@ -165,8 +165,8 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #ff3366 !important;
-  border-color: #ff3366 !important;
+  background-color: #f1154c !important;
+  border-color: #f1154c !important;
   color: #ffffff !important;
 }
 .btn-secondary:hover,
@@ -174,14 +174,14 @@ body {
 .btn-secondary.focus,
 .btn-secondary.active {
   color: #ffffff !important;
-  background-color: #e50039 !important;
-  border-color: #e50039 !important;
+  background-color: #af0a34 !important;
+  border-color: #af0a34 !important;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #e50039 !important;
-  border-color: #e50039 !important;
+  background-color: #af0a34 !important;
+  border-color: #af0a34 !important;
 }
 .btn-info,
 .btn-info:active {
@@ -329,22 +329,22 @@ body {
 .btn-secondary-outline,
 .btn-secondary-outline:active {
   background: none;
-  border-color: #cc0033;
-  color: #cc0033;
+  border-color: #97092d;
+  color: #97092d;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #ff3366;
-  border-color: #ff3366;
+  background-color: #f1154c;
+  border-color: #f1154c;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #ff3366 !important;
-  border-color: #ff3366 !important;
+  background-color: #f1154c !important;
+  border-color: #f1154c !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
@@ -464,7 +464,7 @@ body {
   color: #149dcc !important;
 }
 .text-secondary {
-  color: #ff3366 !important;
+  color: #f1154c !important;
 }
 .text-success {
   color: #149dcc !important;
@@ -490,7 +490,7 @@ a.text-primary:focus {
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
-  color: #cc0033 !important;
+  color: #97092d !important;
 }
 a.text-success:hover,
 a.text-success:focus {
@@ -1373,7 +1373,16 @@ body {
   display: none;
 }
 .cid-qR6KL5diWb {
-  background-image: url("../../../assets/images/6514310-fashion-image-2-1440x550.jpg");
+  background-image: url("../../../assets/images/emartwala-web-441x581.jpg");
+}
+.cid-qR6KL5diWb H3 {
+  color: #f7ed4a;
+}
+.cid-qR6KL5diWb P {
+  color: #f7ed4a;
+}
+.cid-qR6KL5diWb H1 {
+  color: #4af750;
 }
 .cid-qR6JDKfR7l {
   padding-top: 0px;
