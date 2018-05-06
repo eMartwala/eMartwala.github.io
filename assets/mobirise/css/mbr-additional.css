@@ -1805,10 +1805,6 @@ body {
 .cid-qRhlgu4DVa .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-qRhlgu4DVa .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-qRhlgu4DVa .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-qRhlgu4DVa .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qRhlgu4DVa .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1902,10 +1898,6 @@ body {
   .cid-qRhlgu4DVa .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-qRhlgu4DVa .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-qRhlgu4DVa .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-qRhlgu4DVa .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-qRhlgu4DVa .navbar-collapse.collapsing .navbar-buttons,
   .cid-qRhlgu4DVa .navbar-collapse.show .navbar-buttons {
